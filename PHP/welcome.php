@@ -2,7 +2,7 @@
 <html>
 
 <body>
-<link rel="stylesheet" href="CSS/style.css">
+<link rel="stylesheet" href="../CSS/style.css">
 <form action="/welcome.php">
   <div class="container">
     <h1> Sign up now to recieve a free cat! </h1> 
